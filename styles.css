@@ -1,2 +1,5 @@
-
+.heading{
+    display: grid;
+    align-items: center;
+}
 /* Your CSS Code here. */
